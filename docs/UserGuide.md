@@ -220,7 +220,7 @@ The JAR file not launching even after double-clicking the file.
 
 The JAR file not launching in Windows Subsystem for Linux (WSL).
 
-<div markdown="span" class="alert alert-info" role="alert">:information_source: **Note: ** 
+<div markdown="span" class="alert alert-info" role="alert">:information_source: <strong>Note:</strong> 
 WSL does not support GUI applications by default. 
 </div>
 
@@ -269,6 +269,7 @@ Documentation dependencies:
 ---
 
 ## Glossary
+
 ### A
 > #### ADDRESS (Placeholder)
 > The ADDRESS is a text representing the address of the applicants.
@@ -288,22 +289,27 @@ Documentation dependencies:
 > A feature or function that HMHero can perform.
 > #### Command Line (CLI)
 > The typing interface that you use to interact with HMHero. It is represented as the box where you type in commands.
+
 ### E
 > #### EMAIL (Placeholder)
 > The EMAIL is a text representing the email address of the applicants.
 > #### Email
 > The email address of the applicant provided by the user.
+
 ### F
 > #### Flags
 > A marker to identify the type of input by the user. For instance, in `n/NAME`, `n/` is the flag.
+
 ### G
 > #### Graphical User Interface(GUI)
 > A Graphical User Interface is a graphics-based interface that uses icons, menus and a mouse (to click on the icon or pull down the menus) to manage interaction with the system. In HMHero, this presents as the window that appears when launching it.
+
 ### H
 > #### Help Window
 > A pop-up window containing help information, shown only after calling a <kbd>help</kbd> command.
 > #### Hiring Manager
 > A person responsible for overseeing the recruitment process within an organization, from identifying staffing needs to making hiring decisions.
+
 ### I
 > #### Input
 > The text that a user would enter into HMHero
@@ -311,9 +317,11 @@ Documentation dependencies:
 > The INTERVIEW_DATE is the date indicating when the applicant is having his/her interview.
 > #### Interview Date
 > Date where applicants are going to have their interviews. Interview date is in the format "day-month-year hour:minute", represented in the "DD-MM-YYYY HH:MM" format.
+
 ### K
 > #### KEYWORD (Placeholder)
 > The KEYWORD is the text we use search for an item. It can be `NAME` or `PHONE_NUMBER` of the applicant.
+
 ### N
 > #### NAME (Placeholder)
 > The NAME is a text representing the name of the applicants.
@@ -323,11 +331,13 @@ Documentation dependencies:
 > The NOTES are some texts that use to represent the skill set of the applicants.
 > #### Notes
 > The skill set the applicant possesses provided by the user.
+
 ### O
 > #### Operating System (OS)
 > Is a software program that manages computer hardware and software resources, and provides common services for computer programs to run and interact with the computer hardware.
 > #### Output
 > The result after calling a Command. Results are displayed in the GUI.
+
 ### P
 > #### Parameter
 > Values that are passed while calling the Commands. For instance, when calling `find n/NAME`, parameter here is `n/NAME`.
@@ -337,6 +347,7 @@ Documentation dependencies:
 > The phone number of the applicant provided by the user.
 > #### Placeholder
 > Placeholders in HMHero refers to the UPPER_CASE words that appear after the flags in commands that is provided by the user. For instance, `n/NAME`, `NAME` is a placeholder
+
 ### S
 > #### STATUS (Placeholder)
 > The STATUS is a text that represent the current state of the applicant.
@@ -344,6 +355,7 @@ Documentation dependencies:
 > Status has four stages, which are APPLIED, SHORTLISTED, ACCEPTED and REJECTED. Status can only be modified by using <kbd>advance</kbd> or <kbd>reject</kbd> command.
 > #### Syntax
 > The structure of statements/inputs users type into the Command Line.
+
 ### U
 > #### URL
 > A hyperlink to a website.
