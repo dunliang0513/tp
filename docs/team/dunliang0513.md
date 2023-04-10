@@ -164,6 +164,7 @@ Example Output:
 
 2. Wrote Test cases for SkillCommand
    - Test cases that cover possible paths taken by `execute(Model)` in `SkillCommand` class 
+   - Test cases that to check for the `SkillCommandParser` class
 
 - **Documentation**:
 
